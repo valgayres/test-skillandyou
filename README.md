@@ -23,12 +23,12 @@ La question qui nous intéresse est la question 3 du questionnaire 1.
 
 
 Les labels sont les suivants :
-*Positifs :*
+*Négatifs :*
 "The course is too long"
 "The course is too complex"
 "The teachers are not helping enough"
 
-*Négatifs :*
+*Positifs :*
 "The course is interesting"
 "The teachers are competent and helping the students"
 "The course is helping me understand my future job".
